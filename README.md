@@ -1,4 +1,30 @@
 # Python資料科學馬拉松
+
+## 成果
+
+### Netflix raw data
+
+![raw](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/raw_data.png)
+
+### Visualize
+
+分析 netflix movie, TV Show 佔比
+
+![category](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/category_pie.png)
+
+分析 netflix 目標族群
+
+![ages](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/ages.png)
+
+分析 netflix 影片發行國家數量統計
+
+![pie](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/pie.png)
+
+製作根據每個影集、電影的簡介製作 wordcloud
+
+![wordcloud](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/wordcloud.png)
+
+## 馬拉松
  
 * D01 NumPy 套件基本操作
 * D02 NumPy 陣列進階操作
