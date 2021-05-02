@@ -40,7 +40,7 @@
 
 109年度四都房地產交易每坪價格 boxplot
 
-![unit_price](https://github.com/qaws5503/data_science/blob/main/project/real_estate/picture/unit_price)
+![unit_price](https://github.com/qaws5503/data_science/blob/main/project/real_estate/picture/unit_price.png)
 
 ## 馬拉松
  
