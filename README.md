@@ -1,6 +1,8 @@
 # Python資料科學馬拉松
 
-## 成果
+## Netflix
+
+透過 Kagle 上面公開之 Netflix 資料，做出有意義的分析。
 
 ### Netflix raw data
 
@@ -23,6 +25,22 @@
 製作根據每個影集、電影的簡介製作 wordcloud
 
 ![wordcloud](https://github.com/qaws5503/data_science/blob/main/project/netflix/picture/wordcloud.png)
+
+## 台灣四都房地產
+
+透過 [內政部實價登錄](https://lvr.land.moi.gov.tw/homePage.action) 的資料對四都作分析並且視覺化
+
+109年度四都房地產總交易數量柱狀圖
+
+![total_count](https://github.com/qaws5503/data_science/blob/main/project/real_estate/picture/total_count.png)
+
+109年度四都房地產交易總價 boxplot
+
+![total_price](https://github.com/qaws5503/data_science/blob/main/project/real_estate/picture/total_price.png)
+
+109年度四都房地產交易每坪價格 boxplot
+
+![unit_price](https://github.com/qaws5503/data_science/blob/main/project/real_estate/picture/unit_price)
 
 ## 馬拉松
  
